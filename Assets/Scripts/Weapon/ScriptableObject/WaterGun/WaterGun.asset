@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2460473e76ca6b84b82a5c9bffa30294, type: 3}
+  m_Name: WaterGun
+  m_EditorClassIdentifier: 
+  name: WaterGun
+  type: 0
+  damage: 2
+  range: 1000
+  bulletSpeed: 3000
+  impactForce: 1.5
+  currentAmmo: 88.8335
+  magSize: 100
+  fireRate: 10
+  reloadTime: 3
+  reloading: 0
+  throwForce: 0
+  throwUpwardForce: 0
+  throwCooldown: 0
+  timeBeforeExplosion: 0
+  expodeOnImpact: 0
+  playerRefAnimator: {fileID: 9100000, guid: 90f4b828d8ab4aa40b68611fdc91155b, type: 2}
